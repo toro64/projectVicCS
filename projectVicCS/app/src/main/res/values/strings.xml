@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">projectVicCS</string>
+    <string name="enter_password">Enter password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="enter_username">Enter_username</string>
+    <string name="enter_first_name">Enter First name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="enter_telephone_number">Enter telephone number</string>
+    <string name="password">Password</string>
+    <string name="re_enter_password">Re_enter Password</string>
+    <string name="email">email</string>
+    <string name="register">Register</string>
+</resources>
